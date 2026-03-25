@@ -1,6 +1,7 @@
 # HR-Analytics-Dashboard-Tableau
 HR analytics dashboard analyzing employee attrition, job satisfaction, and workforce demographics using Tableau.
 
+
 ## Tools Used
 Tableau
 Excel
@@ -15,4 +16,4 @@ Data Visualization
 * Job satisfaction varies significantly across job roles
 
 ## Dashboard Preview
-! [HR Analytics dashboard](https://github.com/user-attachments/assets/ce7e2e50-aae2-49db-8e06-f7c4ddc22d37)
+ [HR Analytics dashboard](https://github.com/user-attachments/assets/ce7e2e50-aae2-49db-8e06-f7c4ddc22d37)
