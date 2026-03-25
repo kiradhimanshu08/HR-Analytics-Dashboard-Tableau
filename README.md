@@ -3,9 +3,9 @@ HR analytics dashboard analyzing employee attrition, job satisfaction, and workf
 
 
 ## Tools Used
-Tableau
-Excel
-Data Visualization
+- Tableau
+- Excel
+- Data Visualization
 
 ## Key Insights
 * Total Employees: 1470
@@ -16,4 +16,4 @@ Data Visualization
 * Job satisfaction varies significantly across job roles
 
 ## Dashboard Preview
- [HR Analytics dashboard](https://github.com/user-attachments/assets/ce7e2e50-aae2-49db-8e06-f7c4ddc22d37)
+ ![HR Analytics dashboard](https://github.com/user-attachments/assets/ce7e2e50-aae2-49db-8e06-f7c4ddc22d37)
